@@ -16,5 +16,11 @@
         "type":"milkshake-type ice-cream",
         "ingredients":["Peach Syrup","Mango Chunks","Vanilla Base"],
         "image": "https://syedsaadzaidi1.github.io/25W-JavaScript-LH-Week11-main/25W-JavaScript-LH-Week11-main/images/peach-mango.svg"
+    },{
+        "name":"Strawberry Sprinkle",
+        "calories":200,
+        "type":" ice-cream",
+        "ingredients":["Strawberry Syrup","Strawberry Pieces","Vanilla Base","Cholocate Syrup"],
+        "image": "https://syedsaadzaidi1.github.io/25W-JavaScript-LH-Week11-main/25W-JavaScript-LH-Week11-main/images/strawberry-syrup.svg"
     }]
 }
