@@ -1,26 +1,43 @@
-
 {
-    "companyName":"I-Scream Company Inc.",
-    "headOffice":"North Pole",
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
     "established": 2025,
     "active": true,
-    "topFlavours":[{
-        "name":"Chocolate Mint",
-        "calories":290,
-        "type":"ice-cream",
-        "ingredients":["Chocolate Syrup","Peppermint Sprinkle","Vanilla Base"],
-        "image": "https://syedsaadzaidi1.github.io/25W-JavaScript-LH-Week11-main/25W-JavaScript-LH-Week11-main/images/chocolate-mint.svg"
-    },{
-        "name":"Peach Mango",
-        "calories":240,
-        "type":"milkshake-type ice-cream",
-        "ingredients":["Peach Syrup","Mango Chunks","Vanilla Base"],
-        "image": "https://syedsaadzaidi1.github.io/25W-JavaScript-LH-Week11-main/25W-JavaScript-LH-Week11-main/images/peach-mango.svg"
-    },{
-        "name":"Strawberry Sprinkle",
-        "calories":200,
-        "type":" ice-cream",
-        "ingredients":["Strawberry Syrup","Strawberry Pieces","Vanilla Base","Cholocate Syrup"],
-        "image": "https://syedsaadzaidi1.github.io/25W-JavaScript-LH-Week11-main/25W-JavaScript-LH-Week11-main/images/strawberry-syrup.svg"
-    }]
+    "topFlavours": [
+        {
+            "name": "Chocolate Mint",
+            "calories": 290,
+            "type": "ice-cream",
+            "ingredients": ["Chocolate Syrup", "Peppermint Sprinkle", "Vanilla Base"],
+            "image": "https://syedsaadzaidi1.github.io/25W-JavaScript-LH-Week11-main/25W-JavaScript-LH-Week11-main/images/chocolate-mint.svg"
+        },
+        {
+            "name": "Peach Mango",
+            "calories": 240,
+            "type": "milkshake-type ice-cream",
+            "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
+            "image": "https://syedsaadzaidi1.github.io/25W-JavaScript-LH-Week11-main/25W-JavaScript-LH-Week11-main/images/peach-mango.svg"
+        },
+        {
+            "name": "Strawberry Sprinkle",
+            "calories": 200,
+            "type": "ice-cream",
+            "ingredients": ["Strawberry Syrup", "Strawberry Pieces", "Vanilla Base", "Chocolate Syrup"],
+            "image": "https://syedsaadzaidi1.github.io/25W-JavaScript-LH-Week11-main/25W-JavaScript-LH-Week11-main/images/strawberry-syrup.svg"
+        },
+        {
+            "name": "Pistachio Blast",
+            "calories": 220,
+            "type": "frozen yogurt",
+            "ingredients": ["Pistachio Syrup", "Fresh Pistachios", "Yogurt Base"],
+            "image": "https://syedsaadzaidi1.github.io/25W-JavaScript-LH-Week11-main/25W-JavaScript-LH-Week11-main/images/ice-cream-xtra1.svg"
+        },
+        {
+            "name": "Caramel Crunch",
+            "calories": 300,
+            "type": "ice-cream",
+            "ingredients": ["Caramel Sauce", "Chocolate Bits", "Vanilla Base"],
+            "image": "https://syedsaadzaidi1.github.io/25W-JavaScript-LH-Week11-main/25W-JavaScript-LH-Week11-main/images/ice-cream-xtra2.svg"
+        }
+    ]
 }
